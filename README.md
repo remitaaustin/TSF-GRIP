@@ -1,6 +1,6 @@
 # The Sparks Foundation - GRIP SEPT21
 Data Science & Business Analytics Internship\
-\
+
 ## Task 3: Exploratory Data Analysis - Retail
 ● Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’\
 ● As a business manager, try to find out the weak areas where you can work to make more profit.\
